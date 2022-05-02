@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PPortfolio2022Page/static/css/main.536ec72f.css",
+    "main.js": "/PPortfolio2022Page/static/js/main.f465fffb.js",
+    "static/media/CV.pdf": "/PPortfolio2022Page/static/media/CV.192485afc7c92970db30.pdf",
+    "static/media/Me.png": "/PPortfolio2022Page/static/media/Me.bb86607b69813ae0ef8f.png",
+    "static/media/Me2.png": "/PPortfolio2022Page/static/media/Me2.55f45d9bb445178feee4.png",
+    "static/media/p3.png": "/PPortfolio2022Page/static/media/p3.8700873a066ad0f4ed92.png",
+    "static/media/p1.png": "/PPortfolio2022Page/static/media/p1.110fc3e90bcbcaf1b9ad.png",
+    "static/media/p4.png": "/PPortfolio2022Page/static/media/p4.bb369e01591a9790f6f6.png",
+    "static/media/p2.png": "/PPortfolio2022Page/static/media/p2.34a82ce138895cecd5e2.png",
+    "static/media/p5.png": "/PPortfolio2022Page/static/media/p5.f027dee7fc46e46aa786.png",
+    "static/media/p6.png": "/PPortfolio2022Page/static/media/p6.bb8f565b32679e1cc1bc.png",
+    "index.html": "/PPortfolio2022Page/index.html",
+    "main.536ec72f.css.map": "/PPortfolio2022Page/static/css/main.536ec72f.css.map",
+    "main.f465fffb.js.map": "/PPortfolio2022Page/static/js/main.f465fffb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.536ec72f.css",
+    "static/js/main.f465fffb.js"
+  ]
+}
